@@ -35,7 +35,7 @@
 |-------------|-----------------------------------------------|
 | Frontend    | ReactJS, Tailwind CSS, Bun (`bun run dev`)    |
 | Backend     | NodeJS, ExpressJS, MongoDB, Cloudinary        |
-| AI Features | Custom AI for plant detection + OpenAI bot    |
+| AI Features |PLANT.ID API key  for Plant detection + GEMINI API KEY for Chatbot   |
 | Storage     | MongoDB (Database), Cloudinary (Images)       |
 | Others      | NPM, iOS compatibility (optional/future), REST APIs |
 
